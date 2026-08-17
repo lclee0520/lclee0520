@@ -23,7 +23,7 @@ Currently building the report/city-card domain for OMO, a platform helping peopl
 
 ---
 
-### $\color{0369a1}{Experience}$
+### Experience
 
 #### 🌱 Activities
 - Soongsil University, Dept. of Computer Science, Undergraduate (2023.03 ~) (20232893)
