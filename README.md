@@ -48,6 +48,5 @@ Currently building the report/city-card domain for OMO, a platform helping peopl
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=lclee0520&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=lclee0520&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=lclee0520&show_icons=true&theme=dark&hide_border=true" />
 </p>
