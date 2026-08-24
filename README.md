@@ -39,9 +39,11 @@ Currently building the report/city-card domain for OMO, a platform helping peopl
 
 ### Algorithm
 
-<a href="https://solved.ac/profile/lclee0520">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lclee0520" alt="lclee0520's solved.ac profile" />
-</a>
+<p align="center">
+  <a href="https://solved.ac/profile/lclee0520">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lclee0520" alt="lclee0520's solved.ac profile" />
+  </a>
+</p>
 
 ---
 
