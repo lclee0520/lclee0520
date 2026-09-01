@@ -28,7 +28,7 @@ Currently building the report/city-card domain for OMO, a platform helping peopl
 #### 🌱 Activities
 - Soongsil University, Dept. of Computer Science, Undergraduate (2023.03 ~) (20232893)
 - UMC 10th, Spring Boot Part (2026.03 ~ 08) [OMO](https://github.com/OMO-team/OMO-BE).
-- MESH Hackathon (2026.06)
+- MESH Hackathon (2026.06) [B-race](https://github.com/B-race/Brace-BE).
 
 ---
 
